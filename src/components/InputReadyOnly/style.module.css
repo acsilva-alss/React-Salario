@@ -1,0 +1,8 @@
+.boxInputReadyOnly{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.boxInputReadyOnly input{
+    font-weight: bold;
+}
